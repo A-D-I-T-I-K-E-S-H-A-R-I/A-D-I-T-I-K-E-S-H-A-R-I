@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Keshari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently learning **HTML, CSS, JavaScript**
+- 🔭 I’m currently learning **HTML, CSS, Tailwind CSS, JavaScript**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
